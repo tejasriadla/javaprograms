@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Reddyagencies
+ *
+ */
+module corejava {
+}
